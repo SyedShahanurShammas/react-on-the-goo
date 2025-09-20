@@ -1,0 +1,7 @@
+.btns {
+  padding: 5px 15px;
+  border: 2px solid bisque;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
